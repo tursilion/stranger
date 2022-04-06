@@ -1,0 +1,23 @@
+* Cartridge Header
+		AORG >6000
+		
+		DATA >AA01,>0200,>0000,PROG1,>0000,>0000
+PROG1	DATA >0000,GOZOMB,>0853
+		TEXT 'TRANGER'
+		EVEN
+
+GOZOMB
+		MOV R0,@>6000			* set first bank (other banks need only this)
+		
+		LI R0,>6040				* copy unpack program to low RAM after E/A utils space
+		LI R1,>2700
+		LI R2,>0200
+LP
+		MOV *R0+,*R1+
+		DECT R2
+		JNE LP
+		
+		B @>2700
+		
+		END
+		
