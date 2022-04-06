@@ -1,6 +1,6 @@
 20200502
 
-STRANGER is a text adventure I wrote in 1987 or 1988, back in Summerland, BC.
+STRANGER is a text adventure I wrote in 1987 or 1988, back in Summerland, BC. It was conceived while I was crawling through a frozen, spider-web infested drainage pipe in the middle of winter because... well, because I was a stupid kid. ;)
 
 The file 'STRANGER' is a TIFILES style 'FIAD' file for emulation or transfer to a real TI, and runs in TI BASIC. This is the original game from the late 80s.
 
