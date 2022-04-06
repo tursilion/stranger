@@ -8,7 +8,7 @@ The file 'STRANGER' is a TIFILES style 'FIAD' file for emulation or transfer to 
 
 Both of this files are also on the enclosed disk image.
 
-The file 'stranger8.bin' is a 378-style 16k bank-switched ROM cartridge for emulation or burning an EPROM for a real TI. This is a compiled version of the game with many graphical, audio, and style enhancements done in 2016 by Retrospect of AtariAge. Thanks very much! Carts can also be purchased from ArcadeShopper.com, at least as of the time of this writing.
+The file 'stranger16KB8.bin' is a 378-style 16k bank-switched ROM cartridge for emulation or burning an EPROM for a real TI. This is a compiled version of the game with many graphical, audio, and style enhancements done in 2016 by Retrospect of AtariAge. Thanks very much! Carts can also be purchased from ArcadeShopper.com, at least as of the time of this writing.
 
 Stranger32KB8.bin is the same code reformatted to run on the FlashROM99. (Faster loader than the 16k version). It has exactly the same content.
 
